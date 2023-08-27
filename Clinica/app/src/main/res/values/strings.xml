@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Clinica</string>
+    <string name="labelNombres">Ingresar Nombres</string>
+    <string name="labelApellido">Ingresar Apellidos</string>
+    <string name="labelSintoma">Ingrese su Sintoma</string>
+    <string name="labelEspecialidad">[Seleccionar Especialidad]</string>
+    <string name="labelMedico">[Seleccionar Medico]</string>
+    <string name="labelHora">Horario de Atención</string>
+    <string name="labelEstado">Estado</string>
+    <string name="labelFecha">Fecha para la cita</string>
+    <string name="labelAtencion">[Seleccione el Horario]</string>
+    <string name="labelConsulta">[Seleccione el Tipo de Consulta]</string>
+    <string name="labelCodigo">Codigo</string>
+    <string name="labelCodigoP">Codigo Paciente</string>
+    <string name="labelCorreo">Ingrese Correo Electronico</string>
+    <string name="labelContraseña">Ingrese Contraseña</string>
+    <color name="colorBotonEliminar">#A8063B</color>
+</resources>

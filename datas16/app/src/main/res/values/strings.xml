@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="labelNombres">Ingresar Nombres</string>
+    <string name="labelPaterno">Ingresar Apellido Paterno</string>
+    <string name="labelMaterno">Ingresar Apellido Materno</string>
+    <string name="labelDistritos">[Seleccionar Distrito]</string>
+    <string name="labelSexo">[Seleccionar Sexo]</string>
+    <string name="labelSueldo">Ingresar Sueldo</string>
+    <string name="labelHijos">Ingresar Número Hijos</string>
+    <string name="labelDireccion">Ingresar Dirección</string>
+    <string name="labelCurso">[Seleccione Curso]</string>
+</resources>
